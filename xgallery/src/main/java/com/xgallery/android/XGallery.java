@@ -202,5 +202,4 @@ public class XGallery extends FrameLayout implements View.OnTouchListener {
 
     void onGalleryPageSelected(int position);
   }
-
 }
